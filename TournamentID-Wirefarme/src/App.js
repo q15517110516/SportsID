@@ -70,7 +70,7 @@ export class App extends Component {
             </div>
             <div className="fourth-part-content-2">
               <p><i>Get year-round access to top competition</i></p>
-              <button>JOIN TOURNAMENT ID NOW!</button>
+              <button>JOIN TOURNAMENTID NOW!</button>
             </div>
             <div className="fourth-part-footer">
               <h1>Powered by SportsID</h1>
